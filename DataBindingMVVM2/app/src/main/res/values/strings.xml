@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBindingMVVM</string>
+    <string name="space"> </string>
+</resources>
